@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>332</width>
-    <height>210</height>
+    <height>226</height>
    </rect>
   </property>
   <property name="minimumSize">
@@ -38,7 +38,7 @@
      <x>20</x>
      <y>10</y>
      <width>291</width>
-     <height>191</height>
+     <height>211</height>
     </rect>
    </property>
    <property name="minimumSize">
@@ -190,6 +190,19 @@
       <width>113</width>
       <height>21</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QProgressBar" name="progressBar">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>180</y>
+      <width>191</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="value">
+     <number>24</number>
     </property>
    </widget>
   </widget>
