@@ -47,17 +47,7 @@
       <rect>
        <x>140</x>
        <y>30</y>
-       <width>201</width>
-       <height>22</height>
-      </rect>
-     </property>
-    </widget>
-    <widget class="QLineEdit" name="ramLine">
-     <property name="geometry">
-      <rect>
-       <x>160</x>
-       <y>0</y>
-       <width>171</width>
+       <width>251</width>
        <height>22</height>
       </rect>
      </property>
@@ -78,9 +68,9 @@
     <widget class="QPushButton" name="findJavaButton">
      <property name="geometry">
       <rect>
-       <x>330</x>
+       <x>390</x>
        <y>60</y>
-       <width>75</width>
+       <width>61</width>
        <height>24</height>
       </rect>
      </property>
@@ -91,9 +81,9 @@
     <widget class="QPushButton" name="downloadJavaButton">
      <property name="geometry">
       <rect>
-       <x>410</x>
+       <x>450</x>
        <y>60</y>
-       <width>91</width>
+       <width>81</width>
        <height>24</height>
       </rect>
      </property>
@@ -135,6 +125,29 @@
      </property>
      <property name="text">
       <string>Сохранить</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="browseButton">
+     <property name="geometry">
+      <rect>
+       <x>330</x>
+       <y>60</y>
+       <width>51</width>
+       <height>24</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Browse</string>
+     </property>
+    </widget>
+    <widget class="QSpinBox" name="ramSpinBox">
+     <property name="geometry">
+      <rect>
+       <x>150</x>
+       <y>0</y>
+       <width>71</width>
+       <height>22</height>
+      </rect>
      </property>
     </widget>
    </widget>

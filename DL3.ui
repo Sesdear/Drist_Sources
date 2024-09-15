@@ -166,7 +166,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Обновить клиент</string>
+     <string>Переустановить клиент</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">
@@ -203,6 +203,9 @@
     </property>
     <property name="value">
      <number>0</number>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignmentFlag::AlignRight|Qt::AlignmentFlag::AlignTrailing|Qt::AlignmentFlag::AlignVCenter</set>
     </property>
    </widget>
   </widget>
