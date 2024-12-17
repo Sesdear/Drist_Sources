@@ -1,5 +1,5 @@
 {
-  "default": "7.tcp.eu.ngrok.io:17521",
+  "default": "109.174.10.81:8000",
   "playit": "svo.gugas",
   "network": "1.1.114.1:00122",
   "peculiar": "kill ysfelf"
