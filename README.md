@@ -9,3 +9,8 @@
 Для обновления лаунчера нужно заменить _internal и launch.exe на скомпилированные новые файлы (БЕЗ --noconsole). <br>
 <br>
 Для смены версии лаунчера нужно изменить файл manifests/launcher_version.json
+<br>
+На файловике находится minecraft_manifest с форджом и майнкруфтом
+Манифесты файлов и модов обновлять через unabomber
+
+в ветке manifests/launcher_ip.json выставляются айпишники лаунчера
